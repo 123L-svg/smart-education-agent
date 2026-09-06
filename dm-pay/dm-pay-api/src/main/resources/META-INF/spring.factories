@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.smarteducation.pay.sdk.config.PayApiImportConfiguration

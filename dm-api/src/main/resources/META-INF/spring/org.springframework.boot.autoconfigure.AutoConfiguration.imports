@@ -1,0 +1,4 @@
+com.smarteducation.api.config.RequestIdRelayConfiguration
+com.smarteducation.api.config.RoleCacheConfig
+com.smarteducation.api.config.FallbackConfig
+com.smarteducation.api.config.CategoryCacheConfig
